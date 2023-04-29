@@ -38,7 +38,7 @@ html{    background:url(http://thekitemap.com/images/feedback-img.jpg) no-repeat
 	background-color:rgba(72,72,72,0.4);
 	padding-left:35px;
 	padding-right:35px;
-	padding-top:35px;
+	padding-top:128px;
 	padding-bottom:50px;
 	width: 450px;
 	float: left;
@@ -186,19 +186,6 @@ input:focus, textarea:focus {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 body.hidden-scrolling{
 	overflow-y: hidden;
 }
@@ -216,25 +203,6 @@ ul{
 	padding:0;
 }
 
-li{
-	font-size: 18px;
-	overflow: hidden;
-}
-
-p{
-	font-size: 18px;
-}
-h2{
-	padding-bottom: 20px;
-}
-
-
-
-
-
-a{
-	text-decoration: none;
-}
 /*header*/
 .header{
 	position: absolute;
@@ -481,6 +449,7 @@ a{
 		display: flex;
 	}
 }
+
 
 
 
